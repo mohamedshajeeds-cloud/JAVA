@@ -90,15 +90,15 @@ Hours : 5
 
 java EmployeePayslip
 Enter Name of Employee :
-karthi
+SHAJEED
 Enter ID of Employee :
 109
 Enter Address of Employee :
 25,kandamangalam
 Enter Mail ID of Employee :
-karthikeyan.cs25@ifet.ac.in               
+shajeed.cs25@ifet.ac.in               
 Enter Mobile Number of Employee :
-8778239906
+8778239923
 Enter the Basicpay :
 10000
 Enter the Designation :
@@ -108,11 +108,11 @@ Enter the Designation :
 4.Professor 
 5. Exit
 2
-Name of The Employee :karthi***** payslip ****
-Employee Name: karthi
+Name of The Employee :shajeed***** payslip ****
+Employee Name: shajeed
 Employee_ID: 109
 Address: 25,kandamangalam
-Mobile Number: 8778239906
+Mobile Number: 8778239923
  Grosssalary =21910.0
  Netsalary =20700.0
 	 
